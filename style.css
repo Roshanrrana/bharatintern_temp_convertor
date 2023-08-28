@@ -1,0 +1,27 @@
+body{
+    background-color: #020202;
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+h1{
+    text-align: center;
+    color: rgb(10, 39, 21);
+    margin-top: 50px;
+}
+fieldset{
+    background-image: linear-gradient(red, yellow, green);
+    margin: 50px;
+    margin-top: 120px;
+    padding: 80px;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px black;
+}
+#smallHeading{
+    color: rgb(23, 4, 68);
+}
+footer{
+    margin-left: 85%;
+    color: rgb(4, 25, 8);
+}
